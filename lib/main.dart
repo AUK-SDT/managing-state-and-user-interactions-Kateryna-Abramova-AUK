@@ -2,7 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:animations/animations.dart';
 import 'package:url_launcher/url_launcher.dart';
 
-void main() => runApp(const MyApp());
+void main() {
+  runApp(const MyApp());
+}
 
 const String userName = "Kateryna Abramova";
 
