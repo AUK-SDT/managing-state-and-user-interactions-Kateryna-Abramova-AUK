@@ -89,3 +89,10 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
+  fonts:
+    - family: ScheherazadeNew
+      fonts:
+        - asset: assets/fonts/ScheherazadeNew-Bold.ttf
+        - asset: assets/fonts/ScheherazadeNew-Medium.ttf
+        - asset: assets/fonts/ScheherazadeNew-Regular.ttf
+        - asset: assets/fonts/ScheherazadeNew-SemiBold.ttf
