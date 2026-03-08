@@ -89,6 +89,14 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
+  assets:
+    - assets/images/blackrock_logo.png
+    - assets/images/blackstone_logo.png
+    - assets/images/citadel_logo.png
+    - assets/images/goldman_sachs.png
+    - assets/images/jpmorgan_logo.png
+    - assets/images/mckinsey_logo.png
+
   fonts:
     - family: ScheherazadeNew
       fonts:
